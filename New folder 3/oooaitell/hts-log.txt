@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 16 Nov 2026 14:15:36 at https://globalnetwork-rosy.vercel.app/login +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://globalnetwork-rosy.vercel.app/login -O1 "C:\Users\PC\OneDrive\Desktop\New folder 3\oooaitell" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:15:41	Error: 	"Not Found" (404) at link https://globalnetwork-rosy.vercel.app/dashboard/ (from https://globalnetwork-rosy.vercel.app/login)
+14:15:41	Error: 	"Not Found" (404) at link https://globalnetwork-rosy.vercel.app/plans/ (from https://globalnetwork-rosy.vercel.app/login)
+14:15:41	Error: 	"Not Found" (404) at link https://globalnetwork-rosy.vercel.app/records/ (from https://globalnetwork-rosy.vercel.app/login)
+14:15:41	Error: 	"Not Found" (404) at link https://globalnetwork-rosy.vercel.app/static/images/airtel_logo.png (from https://globalnetwork-rosy.vercel.app/login)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 seconds : 10 links scanned, 5 files written (193281 bytes overall) [44823 bytes received at 8964 bytes/sec], 192944 bytes transferred using HTTP compression in 4 files, ratio 19%
+(4 errors, 0 warnings, 0 messages)
